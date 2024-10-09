@@ -3,7 +3,7 @@
 
 ## Overview
 
-This is a bookbot implemented in Python that given a book in input, gives us back some statics about it.
+This is a bookbot implemented in Python that given a book in input, gives us back some statistics about it.
 
 ## Features
 
